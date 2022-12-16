@@ -1,6 +1,3 @@
-; Template used for Software Integration
-;
-;
 ;
 ; Awara Pirkhdrie
 ;
